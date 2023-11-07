@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👨🏽‍💻 Welcome to my Portfolio!
 
-<!--
-**NeyasG/NeyasG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Neyas. A Data analyst with a range of skills from Data Exploration and Visualisation to Reporting and Back-End Data Engineering. 
 
-Here are some ideas to get you started:
+### 📓 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Click [here](https://github.com/NeyasG) for my Portfolio and a list of my Projects
+
+### 🧰 Tools and Tech
+
+* SQL, Python, R, Javascript
+* Google BigQuery, PostgreSQL
+* PowerBI, Tableau
+
+### 🤙🏽 Get in Touch
+
+* [LinkedIn](https://www.linkedin.com/in/neyasg/)
+
+Happy Browsing!
