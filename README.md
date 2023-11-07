@@ -4,7 +4,7 @@ Hi, I'm Neyas. A Data analyst with a range of skills from Data Exploration and V
 
 ### 📓 Projects
 
-Click [here](https://github.com/NeyasG) for my Portfolio and a list of my Projects
+Click [here](https://github.com/NeyasG/Portfolio-Guide/blob/main/README.md) for my Portfolio and a list of my Projects
 
 ### 🧰 Tools and Tech
 
